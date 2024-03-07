@@ -18,3 +18,6 @@ pada code head.next.data.
 sehingga langsung menghubungkannya ke elemen ketiga pada code head.next = 
 head.next.next.
 - Menampilkan isi LinkedList setelah elemen kedua dihapus.
+
+## OUTPUT
+
