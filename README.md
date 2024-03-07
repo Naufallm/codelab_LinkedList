@@ -20,4 +20,5 @@ head.next.next.
 - Menampilkan isi LinkedList setelah elemen kedua dihapus.
 
 ## OUTPUT
+![mod2_1](https://github.com/Naufallm/codelab_LinkedList/assets/130893000/99cbd4d4-22eb-46ff-b551-9258a003cee3)
 
